@@ -1,0 +1,8 @@
+-run::preserve_header
+-mute core.io.database
+-packing::use_input_sc
+-packing::extrachi_cutoff 1
+-packing::ex1
+-packing::ex2
+-linmem_ig 10
+-out:file::output_virtual
