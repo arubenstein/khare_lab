@@ -70,3 +70,4 @@ do
 		fi
 done
 
+rm scr.txt
