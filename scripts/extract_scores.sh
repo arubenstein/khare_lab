@@ -10,7 +10,7 @@ else
         suffix=""
 fi
 
-path=/home/arubenstein/mean_field/relax_decoys/$pdb$suffix'/'
+path=/home/arubenstein/git_repos/mean_field/relax_decoys/$pdb$suffix'/'
 
 cd $path
 
