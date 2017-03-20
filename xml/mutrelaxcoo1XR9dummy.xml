@@ -1,0 +1,53 @@
+<dock_design>
+      <SCOREFXNS>
+      </SCOREFXNS>
+      <TASKOPERATIONS>
+         <ProteinInterfaceDesign name=pido design_chain2=0 modify_after_jump=1 />
+	 <InitializeFromCommandline name=init/>
+     	 <ReadResfile name=rrf filename="/home/arubenstein/git_repos/mean_field/input/resfile/rfpackpept.txt"/>
+      </TASKOPERATIONS>
+
+      <FILTERS>      
+      </FILTERS>
+
+      <MOVERS>
+        <MutateResidue name=mut1 target=1B new_res=DM1/>
+        <MutateResidue name=mut2 target=2B new_res=DM2/>
+        <MutateResidue name=mut3 target=3B new_res=DM3/>
+        <MutateResidue name=mut4 target=4B new_res=DM4/>
+        <MutateResidue name=mut5 target=5B new_res=DM5/>	
+        <MutateResidue name=mut6 target=6B new_res=DM6/>
+        <MutateResidue name=mut7 target=7B new_res=DM7/>
+        <MutateResidue name=mut8 target=8B new_res=DM8/>
+        <MutateResidue name=mut9 target=9B new_res=DM9/>
+
+	<AddOrRemoveMatchCsts name=cstadd cst_instruction=add_new/>
+ 	<FastRelax name=fastrelax repeats=8 task_operations=pido,init>      
+	<MoveMap name=mm>
+                        <Chain number=2 chi=1 bb=1/>
+                        <Chain number=1 chi=1 bb=0/>
+                        <Jump number =1 setting=1/>
+        </MoveMap>
+        </FastRelax> 
+        <PackRotamersMover name=repack task_operations=rrf/>
+        <ConstraintSetMover name=coo_cst/>
+
+</MOVERS>
+<APPLY_TO_POSE>
+</APPLY_TO_POSE>
+
+      <PROTOCOLS>
+	      <Add mover_name=coo_cst />	
+ 	      <Add mover_name=mut1/>
+              <Add mover_name=mut2/>
+              <Add mover_name=mut3/>
+              <Add mover_name=mut4/>
+              <Add mover_name=mut5/>
+              <Add mover_name=mut6/>
+              <Add mover_name=mut7/>
+              <Add mover_name=mut8/>
+              <Add mover_name=mut9/>
+              <Add mover_name=repack/>
+	      <Add mover_name=fastrelax/>        
+</PROTOCOLS>
+</dock_design>
