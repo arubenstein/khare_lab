@@ -4,7 +4,7 @@
 #SBATCH -c 1
 #SBATCH --job-name=mean_field
 
-# 1LVB cleaved10_sort 1 bb_sampling_6a 1 talaris2013 talaris2013 rosetta_scripts_boltz_per_aa_summed1_ntask
+# 1LVB cleaved5_sort 1 bb_sampling_7a -1 talaris2013 talaris2013 rosetta_scripts PDZ 0.6
 pdb=$1
 listname=$2
 num_pdbs=$3
@@ -14,7 +14,8 @@ scorefxn=$6
 scorefxn_2=$7
 release_name=$8
 pdb_class=$9
-extra_res_fa=${10}
+temp=${10}
+extra_res_fa=${11}
 #sort_pdbs=$7
 
 if [[ $index != "-1" ]]
@@ -64,11 +65,11 @@ elif [[  $bb_sampling =~ ^.*$ ]] ; then
 fi
 
 if [ $scorefxn_2 == "talaris2013" ]; then
-	xml="design_pept.xml"
+	xml="design_pept"$temp".xml"
 elif [ $scorefxn_2 == "soft_rep_design" ]; then
-	xml="design_pept_soft_rep_design.xml"
+	xml="design_pept_soft_rep_design"$temp".xml"
 elif [ $scorefxn_2 == "soft_rep" ]; then
-	xml="design_pept_soft_rep.xml"
+	xml="design_pept_soft_rep"$temp".xml"
 fi
 
 pattern="*_*_*.pdb"
@@ -82,7 +83,7 @@ elif [ $bb_sampling_p == "backrub" ]; then
 	pattern="*_*_*_*_*_*.pdb"
 fi
 
-xml="design_pept.xml"
+xml="design_pept"$temp".xml"
 
 resfilepath='/home/arubenstein/git_repos/mean_field/input/resfile'
 
@@ -131,8 +132,8 @@ if [ ! -f $listfilename ]; then
 
 fi
 
-path='/home/arubenstein/git_repos/mean_field/mf/'$bb_sampling'/'$scorefxn'/'$pdb$suffix'/'$scorefxn_2'/'$release_name
-homepath='/home/arubenstein/git_repos/mean_field/mf/'$bb_sampling'/'$scorefxn'/'$pdb$suffix'/'$scorefxn_2'/'$release_name
+path='/home/arubenstein/git_repos/mean_field/mf/'$bb_sampling'/'$scorefxn'/'$temp'/'$pdb$suffix'/'$scorefxn_2'/'$release_name
+homepath='/home/arubenstein/git_repos/mean_field/mf/'$bb_sampling'/'$scorefxn'/'$temp'/'$pdb$suffix'/'$scorefxn_2'/'$release_name
 mkdir -p $path
 mkdir -p $homepath
 cd $path

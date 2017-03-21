@@ -1,0 +1,5 @@
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/1XR9/AAFLDDNAF/mut_AAFLDDNAF_0001.pdb
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/1XR9/IFRLMRTNF/mut_IFRLMRTNF_0010.pdb
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/1XR9/LQRKYGGAL/mut_LQRKYGGAL_0002.pdb
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/1XR9/SINISGYNF/mut_SINISGYNF_0008.pdb
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/1XR9/YVPTEFWGF/mut_YVPTEFWGF_0007.pdb

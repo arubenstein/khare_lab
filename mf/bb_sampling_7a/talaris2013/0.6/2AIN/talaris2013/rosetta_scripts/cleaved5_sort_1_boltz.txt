@@ -1,0 +1,5 @@
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2AIN/CRGTRV/mut_CRGTRV_0001.pdb	0.200521	0.204671	0.195645	0.235127	0.194295	0.324828	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2AIN/IRGIWV/mut_IRGIWV_0003.pdb	0.198152	0.203681	0.196895	0.215046	0.200404	0.210117	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2AIN/PFSSRV/mut_PFSSRV_0010.pdb	0.201435	0.204829	0.202061	0.184512	0.200928	0.184421	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2AIN/SNSWIV/mut_SNSWIV_0004.pdb	0.199858	0.188089	0.202931	0.197728	0.203046	0.158228	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2AIN/YWEWYW/mut_YWEWYW_0006.pdb	0.200034	0.198729	0.202469	0.167586	0.201327	0.122406	

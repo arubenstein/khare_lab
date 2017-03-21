@@ -1,0 +1,5 @@
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2FNE/ATRETRV/mut_ATRETRV_0001.pdb	0.208176	0.212528	0.205359	0.24674	0.227699	0.202607	0.304798	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2FNE/ILRSSRV/mut_ILRSSRV_0005.pdb	0.196296	0.195415	0.19932	0.175472	0.198645	0.198148	0.226331	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2FNE/LLRETRI/mut_LLRETRI_0009.pdb	0.207058	0.19758	0.198439	0.201293	0.19407	0.200458	0.148715	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2FNE/SWRGTRV/mut_SWRGTRV_0003.pdb	0.195899	0.196031	0.197647	0.186967	0.191238	0.199667	0.155282	
+/home/arubenstein/git_repos/mean_field/thread/bb_sampling_7/2FNE/WMRETRV/mut_WMRETRV_0006.pdb	0.192571	0.198447	0.199234	0.189527	0.188348	0.199121	0.164874	
