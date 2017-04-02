@@ -1,31 +1,18 @@
-<dock_design>
+<ROSETTASCRIPTS>
 	<TASKOPERATIONS>
-		<ProteinInterfaceDesign name=det_int interface_distance_cutoff=8 allow_all_aas=1 design_all_aas=1 modify_before_jump=1 repack_chain1=0/>
-                <OperateOnCertainResidues name=prev>
-                        <PreventRepackingRLT/>
-                        <ChainIs chain=A />
-                </OperateOnCertainResidues>
-         	<ReadResfile name=rrf />
-		<InitializeFromCommandline name=init />
+		<InitializeFromCommandline name="init" />
+                <ReadResfile name="rrf" />
 	</TASKOPERATIONS>
 	<SCOREFXNS>
-                <myscore weights=enzdes.wts/>
 	</SCOREFXNS>
 	<FILTERS>
-	        <EnzScore name=cstenergy scorefxn=talaris2013 whole_pose=1 score_type=cstE energy_cutoff=99999.0/>
-
-		<RotamerProbMeanField name=boltz threshold=5 lambda_memory=0.5 tolerance=0.0001 temperature=0.8 task_operations="rrf,init"/>
 	</FILTERS>
 	<MOVERS>
-	        <AddOrRemoveMatchCsts name=cstadd cst_instruction=add_new/>
-
-		<MinMover name=min chi=1 bb=0 jump=666/>
+                <GenMeanFieldMover name="boltz" threshold="5" lambda_memory="0.5" tolerance="0.0001" temperature="0.8" task_operations="rrf,init"/>
 	</MOVERS>
 	<APPLY_TO_POSE>
 	</APPLY_TO_POSE>
 	<PROTOCOLS>
-              <Add mover_name=cstadd/>
-		<Add filter_name=cstenergy/>
-		<Add filter_name=boltz/>
+		<Add mover_name="boltz"/>
 	</PROTOCOLS>
-</dock_design>
+</ROSETTASCRIPTS>

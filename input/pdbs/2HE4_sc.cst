@@ -1,0 +1,443 @@
+CoordinateConstraint  CB  1  CA  1   13.563   46.739    9.728 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  1  CA  1   14.712   45.908    9.741 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  2  CA  2   12.630   45.798    4.765 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  2  CA  2   11.278   46.498    4.742 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  SD  2  CA  2    9.899   45.342    4.619 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE  2  CA  2   10.108   44.742    2.945 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  3  CA  3   16.267   42.934    3.847 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  3  CA  3   15.837   43.702    2.593 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 3  CA  3   17.062   44.368    1.937 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 3  CA  3   15.188   42.755    1.599 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  4  CA  4   14.670   41.163    9.272 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  4  CA  4   15.087   42.588    9.427 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  4  CA  4   16.548   42.701    9.744 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  4  CA  4   16.921   42.105   11.044 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  4  CA  4   18.169   41.955   11.478 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 4  CA  4   19.211   42.341   10.746 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 4  CA  4   18.374   41.405   12.643 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  5  CA  5   15.836   36.019    9.750 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  5  CA  5   17.062   36.836    9.768 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  5  CA  5   16.602   38.240    9.622 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  5  CA  5   15.382   38.098    8.804 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  6  CA  6   10.296   36.327    8.269 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  6  CA  6    8.867   36.163    8.709 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  6  CA  6    7.957   37.014    7.906 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  6  CA  6    6.590   36.835    8.345 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  6  CA  6    5.584   37.630    7.966 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 6  CA  6    5.789   38.667    7.152 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 6  CA  6    4.363   37.388    8.398 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  7  CA  7   10.460   31.412   11.417 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  7  CA  7   10.158   29.929   11.581 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 7  CA  7   10.993   29.052   10.652 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 7  CA  7   10.320   29.516   12.979 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  8  CA  8    6.994   31.776    6.602 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  SG  8  CA  8    7.620   33.449    6.294 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  9  CA  9    4.196   28.482   10.647 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  9  CA  9    3.723   27.132   11.075 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint ND1 9  CA  9    2.944   26.943   12.195 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 9  CA  9    2.944   26.943   12.195 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint ND1 9  CA  9    3.911   25.908   10.539 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 9  CA  9    3.911   25.908   10.539 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 9  CA  9    2.664   25.654   12.323 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 9  CA  9    2.664   25.654   12.323 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 9  CA  9    3.249   25.002   11.336 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 9  CA  9    3.249   25.002   11.336 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  10  CA  10    4.042   26.759    4.816 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  10  CA  10    4.504   27.988    4.022 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 10  CA  10    5.656   28.663    4.754 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 10  CA  10    4.920   27.562    2.622 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  11  CA  11   -0.842   25.124    7.173 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  11  CA  11   -0.376   25.489    8.586 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  11  CA  11   -1.512   25.948    9.448 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  11  CA  11   -1.111   26.190   10.830 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  11  CA  11   -0.587   27.322   11.295 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 11  CA  11   -0.348   28.357   10.491 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 11  CA  11   -0.285   27.407   12.583 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  12  CA  12   -0.178   20.913    3.318 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  12  CA  12   -0.565   20.319    1.957 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  12  CA  12   -0.130   18.950    1.729 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE  12  CA  12    1.289   18.942    1.365 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NZ  12  CA  12    1.620   17.618    0.833 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  14  CA  14   -7.488   22.197   -1.311 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  14  CA  14   -7.657   23.357   -0.525 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  14  CA  14   -6.724   23.304    0.660 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  14  CA  14   -5.650   22.409    0.188 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  15  CA  15   -3.741   24.939   -3.822 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  15  CA  15   -5.010   25.175   -4.580 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  15  CA  15   -6.221   25.264   -3.658 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OE1 15  CA  15   -6.165   25.882   -2.579 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 15  CA  15   -6.165   25.882   -2.579 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OE1 15  CA  15   -7.311   24.634   -4.073 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 15  CA  15   -7.311   24.634   -4.073 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  17  CA  17    2.909   25.366   -0.025 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  17  CA  17    3.178   24.262    0.974 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 17  CA  17    3.896   23.139    0.591 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 17  CA  17    2.707   24.374    2.274 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE1 17  CA  17    4.142   22.131    1.503 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE2 17  CA  17    2.952   23.366    3.186 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  17  CA  17    3.667   22.249    2.805 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OH  17  CA  17    3.911   21.245    3.714 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  19  CA  19    5.229   29.400   -3.108 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  19  CA  19    5.989   28.308   -2.410 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 19  CA  19    7.321   28.068   -2.713 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 19  CA  19    5.374   27.519   -1.451 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE1 19  CA  19    8.021   27.064   -2.072 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE2 19  CA  19    6.071   26.515   -0.808 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  19  CA  19    7.397   26.287   -1.119 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  20  CA  20    7.054   28.946   -8.342 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  20  CA  20    5.686   28.713   -8.919 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OD1 20  CA  20    5.143   27.606   -8.835 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 20  CA  20    5.143   27.606   -8.835 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OD1 20  CA  20    5.117   29.737   -9.504 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 20  CA  20    5.117   29.737   -9.504 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  21  CA  21   11.001   26.469   -4.772 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  21  CA  21   12.385   26.470   -4.111 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 21  CA  21   12.490   27.650   -3.155 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 21  CA  21   12.599   25.153   -3.379 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  22  CA  22   13.425   29.753   -8.874 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  22  CA  22   14.432   29.944   -9.965 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint ND1 22  CA  22   15.434   30.890   -9.895 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 22  CA  22   15.434   30.890   -9.895 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint ND1 22  CA  22   14.591   29.313  -11.152 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 22  CA  22   14.591   29.313  -11.152 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 22  CA  22   16.167   30.830  -10.994 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 22  CA  22   16.167   30.830  -10.994 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 22  CA  22   15.676   29.883  -11.772 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 22  CA  22   15.676   29.883  -11.772 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  23  CA  23   17.977   26.294   -8.293 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  23  CA  23   19.324   26.198   -7.921 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  24  CA  24   18.857   32.280   -7.768 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  24  CA  24   19.248   33.572   -8.473 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD1 24  CA  24   20.414   33.889   -8.485 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD2 24  CA  24   18.378   34.228   -8.993 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  25  CA  25   22.617   30.505  -11.835 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  25  CA  25   21.999   29.140  -12.107 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  25  CA  25   22.237   28.703  -13.544 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE  25  CA  25   21.646   27.326  -13.810 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NZ  25  CA  25   21.873   26.884  -15.213 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  26  CA  26   22.676   35.762  -10.309 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  26  CA  26   21.394   35.980   -9.726 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  27  CA  27   21.697   35.399   -5.312 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  27  CA  27   21.649   36.830   -5.824 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  27  CA  27   22.743   37.656   -5.251 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  27  CA  27   22.628   39.052   -5.637 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  27  CA  27   23.088   39.567   -6.794 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 27  CA  27   23.691   38.788   -7.666 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 27  CA  27   22.935   40.853   -7.053 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  28  CA  28   24.695   31.754   -2.413 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  28  CA  28   24.864   33.204   -2.096 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  28  CA  28   24.442   34.001   -3.292 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  28  CA  28   23.589   33.050   -4.031 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  30  CA  30   16.471   27.525   -2.785 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  30  CA  30   17.362   26.309   -3.065 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  30  CA  30   17.618   26.085   -4.516 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OE1 30  CA  30   16.667   25.916   -5.311 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 30  CA  30   16.667   25.916   -5.311 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OE1 30  CA  30   18.911   26.091   -4.899 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 30  CA  30   18.911   26.091   -4.899 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  31  CA  31   15.227   32.794   -4.703 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  31  CA  31   16.578   33.322   -4.204 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 31  CA  31   16.652   34.458   -3.426 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 31  CA  31   17.765   32.636   -4.461 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE1 31  CA  31   17.873   34.916   -2.941 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE2 31  CA  31   18.994   33.097   -3.998 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  31  CA  31   19.025   34.230   -3.236 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OH  31  CA  31   20.231   34.684   -2.752 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  32  CA  32   10.006   32.570   -2.883 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 32  CA  32   10.268   31.948   -1.522 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 32  CA  32    8.514   32.435   -3.227 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 32  CA  32   10.048   30.422   -1.432 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  33  CA  33   10.045   31.513   -8.783 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  33  CA  33    9.818   32.077  -10.176 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  33  CA  33   10.399   31.199  -11.225 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  33  CA  33    9.786   29.881  -11.230 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  33  CA  33    8.598   29.592  -11.796 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 33  CA  33    7.910   30.536  -12.399 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 33  CA  33    8.125   28.359  -11.747 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  34  CA  34    5.693   33.362   -8.262 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  34  CA  34    5.269   32.032   -8.571 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  35  CA  35    3.907   33.946   -3.050 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 35  CA  35    2.884   33.556   -1.986 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 35  CA  35    5.321   33.629   -2.523 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  36  CA  36   -0.707   31.379   -5.519 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  36  CA  36   -0.221   30.501   -6.666 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD1 36  CA  36    0.682   30.913   -7.405 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD2 36  CA  36   -0.747   29.372   -6.821 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  37  CA  37   -2.770   36.450   -4.895 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  37  CA  37   -1.881   36.498   -6.074 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  37  CA  37   -1.358   35.134   -6.249 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  37  CA  37   -1.308   34.626   -4.864 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  39  CA  39   -1.095   30.507   -1.765 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  39  CA  39    0.029   31.315   -1.490 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  40  CA  40   -0.871   27.685    2.434 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  40  CA  40   -2.028   27.215    1.643 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  40  CA  40   -2.033   28.204    0.482 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  40  CA  40   -1.582   29.455    1.121 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  41  CA  41    3.208   30.237    0.112 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  42  CA  42   -0.011   34.546    0.118 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  43  CA  43   -1.848   32.822    4.804 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  43  CA  43   -3.089   33.184    4.073 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  43  CA  43   -4.306   32.487    4.672 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  43  CA  43   -4.189   31.050    4.546 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  43  CA  43   -4.587   30.369    3.490 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 43  CA  43   -5.198   30.998    2.467 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 43  CA  43   -4.450   29.076    3.454 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  44  CA  44    3.287   31.231    5.641 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  44  CA  44    3.952   31.385    4.409 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  46  CA  46    6.537   33.039    1.500 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  46  CA  46    6.914   31.863    2.353 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 46  CA  46    6.836   30.615    1.492 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 46  CA  46    8.288   32.035    2.970 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  47  CA  47    7.464   38.134   -0.549 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  47  CA  47    6.374   38.727    0.331 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  47  CA  47    5.088   38.856   -0.400 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  47  CA  47    4.075   39.527    0.398 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  47  CA  47    3.242   38.906    1.257 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 47  CA  47    3.314   37.603    1.416 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 47  CA  47    2.353   39.607    1.938 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  48  CA  48    8.518   36.820   -5.602 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  49  CA  49   13.134   38.127   -4.476 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  49  CA  49   12.842   38.332   -5.908 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  49  CA  49   13.225   39.719   -6.264 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OE1 49  CA  49   14.238   40.237   -5.795 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 49  CA  49   14.238   40.237   -5.795 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OE1 49  CA  49   12.346   40.383   -6.977 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 49  CA  49   12.346   40.383   -6.977 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  50  CA  50   11.857   35.194    0.490 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  50  CA  50   11.090   36.413    0.913 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD1 50  CA  50   11.624   37.536    0.850 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD2 50  CA  50    9.941   36.219    1.373 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  51  CA  51   17.429   33.766    0.387 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  51  CA  51   18.516   32.686    0.310 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  51  CA  51   19.911   33.273    0.294 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  51  CA  51   20.249   33.827    1.586 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  51  CA  51   20.779   33.120    2.574 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 51  CA  51   21.034   31.831    2.406 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 51  CA  51   21.063   33.711    3.730 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  52  CA  52   14.616   28.833    1.521 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  52  CA  52   14.216   27.607    2.290 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 52  CA  52   13.229   27.901    3.406 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 52  CA  52   13.666   26.532    1.296 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  53  CA  53   18.146   30.293    6.018 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 53  CA  53   18.518   31.633    5.380 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 53  CA  53   19.293   29.801    6.904 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 53  CA  53   18.662   32.724    6.371 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  54  CA  54   16.199   26.872    8.743 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  54  CA  54   17.599   27.202    9.277 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  54  CA  54   17.669   27.339   10.796 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE1 54  CA  54   16.594   27.224   11.448 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE2 54  CA  54   18.820   27.496   11.342 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  55  CA  55   13.187   23.253    5.655 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 55  CA  55   11.828   22.515    5.571 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 55  CA  55   13.457   24.058    4.400 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  56  CA  56   11.252   21.558    9.896 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  56  CA  56    9.949   21.627    9.141 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OD1 56  CA  56    9.141   22.502    9.373 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 56  CA  56    9.141   22.502    9.373 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OD1 56  CA  56    9.750   20.683    8.221 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 56  CA  56    9.750   20.683    8.221 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  58  CA  58   16.879   20.883    8.879 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  58  CA  58   16.448   19.828    9.895 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  58  CA  58   15.992   18.518    9.260 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OE1 58  CA  58   15.375   18.500    8.190 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 58  CA  58   15.375   18.500    8.190 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OE1 58  CA  58   16.269   17.416    9.938 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 58  CA  58   16.269   17.416    9.938 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  59  CA  59   21.206   24.584    7.979 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  59  CA  59   21.879   25.536    7.044 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint OD1 59  CA  59   21.979   25.252    5.855 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 59  CA  59   21.979   25.252    5.855 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint OD1 59  CA  59   22.304   26.685    7.561 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint ND2 59  CA  59   22.304   26.685    7.561 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  60  CA  60   17.687   23.563    3.250 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 60  CA  60   16.875   22.658    4.175 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 60  CA  60   17.054   24.942    3.154 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  61  CA  61   22.539   27.059    3.331 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  61  CA  61   21.624   28.184    3.844 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  61  CA  61   22.350   29.188    4.718 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE1 61  CA  61   23.107   28.761    5.595 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE2 61  CA  61   22.172   30.405    4.526 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  63  CA  63   20.116   20.713    0.297 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  63  CA  63   20.234   20.145    1.709 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 63  CA  63   18.848   19.871    2.366 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 63  CA  63   21.072   18.870    1.706 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  64  CA  64   20.835   19.544   -4.957 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  64  CA  64   22.323   19.298   -5.149 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  64  CA  64   22.585   17.980   -5.782 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  64  CA  64   22.327   16.879   -4.867 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  64  CA  64   22.385   15.576   -5.204 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 64  CA  64   22.692   15.227   -6.433 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 64  CA  64   22.134   14.647   -4.297 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  65  CA  65   17.022   22.563   -6.942 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  65  CA  65   15.623   22.998   -7.246 BOUNDED 0 0.1 0.5 0.5 tag
+AmbiguousConstraint
+CoordinateConstraint ND1 65  CA  65   15.090   24.177   -6.770 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 65  CA  65   15.090   24.177   -6.770 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint ND1 65  CA  65   14.645   22.411   -7.977 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint CD2 65  CA  65   14.645   22.411   -7.977 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 65  CA  65   13.845   24.298   -7.196 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 65  CA  65   13.845   24.298   -7.196 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+AmbiguousConstraint
+CoordinateConstraint CE1 65  CA  65   13.551   23.240   -7.929 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint NE2 65  CA  65   13.551   23.240   -7.929 BOUNDED 0 0.1 0.5 0.5 tag
+END_AMBIGUOUS
+CoordinateConstraint  CB  66  CA  66   15.567   17.569   -6.323 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  67  CA  67   18.214   17.797   -1.610 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  67  CA  67   18.943   16.554   -2.209 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  67  CA  67   20.512   16.611   -1.962 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE1 67  CA  67   21.108   17.726   -1.991 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE2 67  CA  67   21.157   15.533   -1.719 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  68  CA  68   15.935   22.815   -1.214 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 68  CA  68   15.075   23.897   -0.524 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 68  CA  68   17.434   23.064   -0.941 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  69  CA  69   11.735   20.278   -3.630 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 69  CA  69   10.317   19.744   -3.766 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 69  CA  69   11.929   21.521   -4.487 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  70  CA  70   13.130   16.067   -0.717 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  71  CA  71   14.328   19.817    3.024 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  71  CA  71   15.539   19.101    2.892 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  72  CA  72    9.841   22.313    1.301 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 72  CA  72   10.895   23.424    1.284 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 72  CA  72    8.445   22.901    1.433 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 72  CA  72   10.868   24.271    0.032 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  73  CA  73    7.697   17.665    0.480 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  73  CA  73    7.207   18.601   -0.646 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  73  CA  73    7.030   17.784   -1.976 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CE  73  CA  73    6.536   18.615   -3.126 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NZ  73  CA  73    6.371   17.795   -4.350 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  74  CA  74   10.641   16.687    5.585 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  75  CA  75    6.262   18.058    8.067 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  75  CA  75    7.332   17.868    9.128 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  75  CA  75    7.160   18.819   10.304 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  75  CA  75    8.243   18.626   11.275 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  75  CA  75    8.262   19.138   12.494 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 75  CA  75    7.247   19.866   12.944 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 75  CA  75    9.302   18.892   13.275 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  76  CA  76    2.097   15.116    5.629 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  76  CA  76    0.927   15.004    4.641 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  76  CA  76    1.373   14.860    3.176 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE1 76  CA  76    2.397   14.183    2.948 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE2 76  CA  76    0.673   15.373    2.242 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  77  CA  77    0.068   18.916    8.294 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  77  CA  77   -0.817   17.672    8.347 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD1 77  CA  77   -1.337   17.229    7.321 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OD2 77  CA  77   -0.978   17.153    9.501 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  78  CA  78    3.338   22.150    8.973 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  78  CA  78    4.143   21.177    9.757 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  78  CA  78    4.111   21.360   11.250 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE1 78  CA  78    3.477   22.310   11.790 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OE2 78  CA  78    4.771   20.476   11.866 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  79  CA  79    6.904   23.431    5.116 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  80  CA  80    8.728   25.739   10.250 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  80  CA  80    7.486   25.274   11.002 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  80  CA  80    7.831   24.884   12.436 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  80  CA  80    8.097   26.085   13.207 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  80  CA  80    7.164   26.834   13.793 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 80  CA  80    7.533   27.919   14.429 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 80  CA  80    5.880   26.497   13.772 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  81  CA  81    9.909   28.216    4.927 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  81  CA  81    9.219   27.024    4.251 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 81  CA  81    8.694   27.337    2.858 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 81  CA  81   10.068   25.855    4.193 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  82  CA  82   14.140   30.163    8.629 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  82  CA  82   14.976   31.375    9.107 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 82  CA  82   14.088   32.365    9.883 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 82  CA  82   16.146   30.919    9.942 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  83  CA  83   12.466   33.097    3.833 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 83  CA  83   12.020   31.729    3.395 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 83  CA  83   11.272   33.930    4.315 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  84  CA  84   16.858   36.451    4.689 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 84  CA  84   17.157   35.854    6.036 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 84  CA  84   17.719   35.832    3.597 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  86  CA  86   16.231   39.995   -2.632 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  86  CA  86   14.968   40.594   -2.317 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  86  CA  86   14.482   40.091   -0.982 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  86  CA  86   15.715   39.562   -0.366 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  87  CA  87   20.975   40.458    0.238 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  87  CA  87   21.497   39.171    0.127 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  88  CA  88   23.504   42.899   -3.911 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG1 88  CA  88   22.307   42.946   -4.680 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 88  CA  88   24.676   43.024   -4.911 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  89  CA  89   27.639   39.061   -2.634 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  89  CA  89   26.806   37.920   -2.115 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  89  CA  89   27.319   36.557   -2.594 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  89  CA  89   27.214   36.393   -4.050 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  89  CA  89   27.744   35.377   -4.735 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 89  CA  89   28.413   34.407   -4.115 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 89  CA  89   27.597   35.327   -6.050 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  90  CA  90   28.391   44.836   -1.670 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  90  CA  90   27.187   44.911   -2.608 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 90  CA  90   26.281   46.025   -2.321 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 90  CA  90   27.751   45.068   -3.991 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  91  CA  91   13.831   30.554  -14.801 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG1 91  CA  91   13.165   31.909  -14.990 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 91  CA  91   12.828   29.428  -15.001 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  93  CA  93   16.453   23.784  -11.173 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  93  CA  93   17.719   23.862  -11.956 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  93  CA  93   17.747   25.273  -12.482 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NV  93  CA  93   16.317   25.570  -12.688 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  94  CA  94   11.487   26.534  -11.143 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG  94  CA  94   10.437   27.079  -10.393 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  95  CA  95   10.087   22.336   -7.569 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  OG1 95  CA  95   11.185   21.642   -8.175 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG2 95  CA  95    9.024   21.330   -7.154 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  96  CA  96    4.815   24.334   -8.804 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  96  CA  96    3.508   24.957   -8.342 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD  96  CA  96    2.633   25.311   -9.490 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NE  96  CA  96    1.309   25.726   -9.054 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CZ  96  CA  96    0.992   26.971   -8.651 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH1 96  CA  96    1.911   27.911   -8.632 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  NH2 96  CA  96   -0.244   27.249   -8.273 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CB  97  CA  97    5.948   23.569   -3.127 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CG  97  CA  97    7.223   22.740   -3.328 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD1 97  CA  97    8.209   23.524   -4.184 BOUNDED 0 0.1 0.5 0.5 tag
+CoordinateConstraint  CD2 97  CA  97    7.825   22.398   -1.974 BOUNDED 0 0.1 0.5 0.5 tag
