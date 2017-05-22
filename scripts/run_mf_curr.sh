@@ -141,7 +141,7 @@ cd $path
 #5/20/15 changed checking for success in home because that's the functionality I need currently
 grep -sq "reported success" $path'/'$listname'_'$num_pdbs'.log'
 if [ $? -gt 0 ]; then 
-	nohup '/home/arubenstein/Rosetta/main/source/bin/'$release_name'.static.linuxgccrelease' -score:weights $scorefxn_2 $const_file_arg_1 $const_file_arg_2 -ex1 -ex2 $sc -database /home/arubenstein/Rosetta/main/database -parser:protocol /home/arubenstein/git_repos/mean_field/xml'/'$xml -extrachi_cutoff 1 -s '/home/arubenstein/git_repos/mean_field/input/pdbs/'$pdb$suffix'.pdb' -rot_norm_weight 0.8 -spec_profile '/home/arubenstein/git_repos/mean_field/input/transfacs/'$pdb'.transfac' -bb_list $listfilename -dump_transfac $path/$listname'_'$num_pdbs -resfile $resfilepath'/'$rf -run:preserve_header -nooutput true -run:profile -unmute core.util.prof $extra_res_fa -bb_average_weight 0.8 > $path'/'$listname'_'$num_pdbs'.log'  
+	nohup '/home/arubenstein/Rosetta/main/source/bin/'$release_name'.static.linuxclangrelease' -score:weights $scorefxn_2 $const_file_arg_1 $const_file_arg_2 -ex1 -ex2 $sc -database /home/arubenstein/Rosetta/main/database -parser:protocol /home/arubenstein/git_repos/mean_field/xml'/'$xml -extrachi_cutoff 1 -s '/home/arubenstein/git_repos/mean_field/input/pdbs/'$pdb$suffix'.pdb' -rot_norm_weight 0.8 -spec_profile '/home/arubenstein/git_repos/mean_field/input/transfacs/'$pdb'.transfac' -bb_list $listfilename -dump_transfac $path/$listname'_'$num_pdbs -resfile $resfilepath'/'$rf -run:preserve_header -nooutput true -run:profile -unmute core.util.prof $extra_res_fa -bb_average_weight 0.8 > $path'/'$listname'_'$num_pdbs'.log'  
 fi
 
 

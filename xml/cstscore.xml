@@ -1,0 +1,28 @@
+<ROSETTASCRIPTS>
+      <SCOREFXNS>
+	 <ScoreFunction name="myscore" weights="enzdes"/>
+      </SCOREFXNS>
+      <TASKOPERATIONS>
+         <InitializeFromCommandline name="init"/>
+      </TASKOPERATIONS>
+
+      <FILTERS>
+        <EnzScore name="cstenergy" scorefxn="myscore" whole_pose="1" score_type="cstE" energy_cutoff="99999.0"/>
+
+      </FILTERS>
+
+      <MOVERS>
+        <AddOrRemoveMatchCsts name="cstadd" cst_instruction="add_new"/>
+      </MOVERS>
+
+<APPLY_TO_POSE>
+</APPLY_TO_POSE>
+
+      <PROTOCOLS>
+              <Add mover_name="cstadd"/>
+              <Add filter_name="cstenergy"/>
+
+</PROTOCOLS>
+</ROSETTASCRIPTS>
+
+

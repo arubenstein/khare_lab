@@ -20,7 +20,7 @@ rm -f totalscores.txt
 for i in {1..50}
 do
 	cd Job_${i}
-	awk ' NR > 2 {print $NF,$7}' Cstscored_score.sc >> ../cstscores.txt
+	awk ' NR > 2 {print $NF,$8}' Cstscored_score.sc >> ../cstscores.txt
 	awk ' NR > 2 {print $NF,$2} ' Job_${i}score.sc >> ../totalscores.txt
 	cd ..
 done
